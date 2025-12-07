@@ -1,0 +1,12 @@
+{
+    "name": "atlas-wif-demo",
+    "version": "1.0.0",
+    "description": "Demo app for Atlas Workload Identity Federation",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "mongodb": "^6.5.0"
+    }
+}
