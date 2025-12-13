@@ -327,11 +327,12 @@ All infrastructure follows the "Golden Path" - pre-approved, secure, compliant c
 
 ### Additional Resources
 
-- **`talk_track.md`**: Presentation script for customer demos
 - **`terraform/`**: Infrastructure as Code implementation
 - **`backstage/`**: Self-service developer portal
 - **`kubernetes/`**: Application deployment manifests
 
-## 📚 Documentation
-*   **`talk_track.md`**: **START HERE.** The script for presenting this demo.
-# mongodb-atlas-landing-zone
+---
+
+## 🤝 Contributing
+
+This is a demo repository. For questions or improvements, please open an issue or pull request.
