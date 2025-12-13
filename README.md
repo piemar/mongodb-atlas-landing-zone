@@ -18,6 +18,16 @@ This repository demonstrates a **production-ready MongoDB Atlas Landing Zone** t
 - **Google Kubernetes Engine (GKE)**: Container orchestration for application workloads
 - **Private Service Connect**: Secure, private connectivity between GCP and MongoDB Atlas
 
+---
+
+**Quick Links:**
+- [🚀 Quick Start](#-quick-start) - Get started in minutes
+- [📐 Architecture Explained](#-architecture-explained) - Understand the design
+- [🎭 Running Backstage](#-running-the-backstage-developer-portal) - Launch the developer portal
+- [📚 Detailed Documentation](#-detailed-documentation) - Deep dive into features
+
+---
+
 ## 📐 Architecture Explained
 
 The diagram above illustrates the complete "Golden Path" architecture:
