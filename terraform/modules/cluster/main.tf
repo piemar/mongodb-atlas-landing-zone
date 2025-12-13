@@ -43,7 +43,7 @@ resource "mongodbatlas_advanced_cluster" "cluster" {
   }
 
   # Pinning the version as requested
-  mongo_db_major_version = "7.0"
+  mongo_db_major_version = "8.0"
   
   # Enable Backups (Required for Backup Schedule)
   backup_enabled = true

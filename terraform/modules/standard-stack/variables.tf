@@ -16,5 +16,5 @@ variable "gcp_project_id" {
 
 variable "project_name" {
   type    = string
-  default = "SvenskaSpel-Workshop"
+  default = "SvenskaSpel-LandingZone"
 }

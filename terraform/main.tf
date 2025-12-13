@@ -35,7 +35,7 @@ module "standard_stack" {
   atlas_public_key  = var.atlas_public_key
   atlas_private_key = var.atlas_private_key
   gcp_project_id    = var.gcp_project_id
-  project_name      = "SvenskaSpel-Workshop"
+  project_name      = "SvenskaSpel-LandingZone"
 }
 
 # Configure Kubernetes Provider to talk to the GKE cluster (Output from Stack)
